@@ -1,0 +1,15 @@
+C:\Users\andru\Desktop\Lesson 8\bin\Debug\net6.0\Lesson 8.exe
+C:\Users\andru\Desktop\Lesson 8\bin\Debug\net6.0\Lesson 8.deps.json
+C:\Users\andru\Desktop\Lesson 8\bin\Debug\net6.0\Lesson 8.runtimeconfig.json
+C:\Users\andru\Desktop\Lesson 8\bin\Debug\net6.0\Lesson 8.dll
+C:\Users\andru\Desktop\Lesson 8\bin\Debug\net6.0\Lesson 8.pdb
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.csproj.AssemblyReference.cache
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.AssemblyInfoInputs.cache
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.AssemblyInfo.cs
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.dll
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\refint\Lesson 8.dll
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.pdb
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\Lesson 8.genruntimeconfig.cache
+C:\Users\andru\Desktop\Lesson 8\obj\Debug\net6.0\ref\Lesson 8.dll
